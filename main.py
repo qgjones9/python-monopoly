@@ -19,6 +19,14 @@ print(first_player + " it is you turn to roll the dice to see who wins")
 
 '''
 
-space1 = deeds("LANDING PLATFORM", 26, 52, 200, 200, 150, 165)
+spice_mines = deeds('SPICE MINES', 28, 56, 150, 450, 100, 1200, 1400, 200, 200, 160, 176)
+landing_platform = deeds('LANDING PLATFORM', 26, 52, 130, 390, 900, 1100, 1275, 200, 200, 150, 165)
+operations_center = deeds('OPERATIONS CENTER', 26, 52, 130, 390, 900, 1100, 1275, 200, 200, 150, 165)
 
-# changed
+print('=============================================')
+spice_mines.deed_details()
+print('=============================================')
+landing_platform.deed_details()
+print('=============================================')
+operations_center.deed_details()
+

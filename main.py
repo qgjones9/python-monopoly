@@ -1,5 +1,6 @@
 import deeds
 
+#  Record the name of player1
 def player1():
     name = str(input("Player 1: Choose a player name: "))
     return name

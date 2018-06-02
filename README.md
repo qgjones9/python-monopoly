@@ -9,55 +9,37 @@ and Scoundrel cards, and target locations such as the infamous Kessel Run! \
 Your quest for riches has begun!
 
 ## Inventory
-_Gameboard_ \
-4 plastic character tokens \
-28 title deed cards \
-16 smuggler cards \
-16 scoundrel cards \
-32 hideouts \
-12 facilities \
-2 dice \
-money pack
-
+```
+- 4 character tokens
+- 28 title deed cards
+- 16 smuggler cards
+- 16 scoundrel cards
+- 32 hideouts
+- 12 facilities
+- 2 dice
+```
 # SET IT UP!
-1. Choose someone to read the rules out loud to all players
-2. Each player receives a total cash advance of $1500 using \
-the following bills. Keep the rest of the money in the box with the bank. \
--- 5x = $1   bill(s) \
--- 1x = $5   bill(s) \
--- 2x = $10  bill(s) \
--- 1x = $20  bill(s)
--- 1x = $50  bill(s)
--- 4x = $100 bill(s)
--- 2x = $500 bill(s)
-3. Shuffle Smuggler cards. \
-Place them facedown atop cargo crate image on board. 
-4. Shuffle Scoundrel deck. \
-Place them facedown atop blaster pistol image on board.
-5. Each player chooses a token and places it on Go.
+1. Each player chooses a token and start at Go.
+2. Each player receives a total cash advance of $1500 using
 
 # Lets Play!
 
 ## How to Win
-Move around the board buying as many Star Wars properties \
-(Locations, Vehicles, and Power  Sources) as you can. The more \
-you own, the more rent you'll collect if your're the last player \
-with any money when all other players have gone bankrupt, you win!
+Move around the board buying as many Star Wars properties as you can. \
+The more you own, the more rent you'll collect. \
+If your're the last player with any money when all other players have gone bankrupt, you win!
 
 ## Who goes first?
-Each player rolls both dice. The highest roller goes first.
+Each player rolls both dice. 
+The highest roller goes first.
 
 ## On your turn:
 ----------------------
 1. Roll both dice.
-2. Move forward that number of spaces.
-3. Where did you land? Check THE BOARD SPACES section of this guide and \
-follow the instructions
-NOTE: If you roll a double? Then roll the dice again and take another turn. \
-NOTE: Watch out! If you roll a double three times in a row, \
-you must Go To Jail!
-4. Your turn is over. The player on your left goes next. \
-
+2. Move forward that number of spaces
+3. If you roll a double? Then roll the dice again and take another turn.
+4. If you roll a double three times in a row, you must Go To Jail! \
+5. Finally, Your turn is over. The player on your left goes next.
 
 # The Board Spaces
 
